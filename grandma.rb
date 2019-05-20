@@ -1,4 +1,4 @@
-# Write a speak_to_grandma method.
+# #speak_to_grandma responds with I LOVE YOU TOOPUMPKIN! if you say I LOVE YOU GRANDMA!
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
